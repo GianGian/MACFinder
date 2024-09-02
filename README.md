@@ -1,16 +1,18 @@
 # MACFinder
 
 v1.1
+
 	- Add support for Port-channel
 	- Add hostname
 
 
 =========================================================================
- 
+
+ ```
 Username: admin
 Password: admin
 Ip: 192.168.1.1
-Macaddress (XX:XX:XX:XX:XX:XX or XXXX.XXXX.XXXX):             
+Macaddress (XX:XX:XX:XX:XX:XX or XXXX.XXXX.XXXX):
 
 Esecuzione di Ping 192.168.1.1 con 32 byte di dati:
 Risposta da 192.168.1.1: byte=32 durata=1ms TTL=255
@@ -34,3 +36,4 @@ Attempt to connect...
           |
   FastEthernet0/24
           |
+```
