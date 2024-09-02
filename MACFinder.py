@@ -50,7 +50,6 @@ username1= input("Username: ")
 password1=input("Password: ")
 ip=input("Ip: ")
 mac=input("Macaddress (XX:XX:XX:XX:XX:XX or XXXX.XXXX.XXXX): ")
-#mac = "b022.7ae2.863f"
 
 #perform some check
 try:
